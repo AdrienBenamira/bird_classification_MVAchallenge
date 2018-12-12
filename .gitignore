@@ -1,0 +1,12 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+config.json
+bird_dataset/
+bird_dataset_cropped/
+cvpr18-inaturalist-transfer/
+experiment/
+bird_dataset_cropped_old/
+bird_dataset_cropped_old/
+feature_old/
