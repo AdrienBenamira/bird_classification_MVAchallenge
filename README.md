@@ -2,7 +2,7 @@
 
 ### Assignment 3: Image classification
 
-This is an implementation that achieves 91.712 % in the Kaggle challenge MVA 2018-2019
+This is an implementation that achieves 91.712 % in the Kaggle challenge MVA 2018-2019 (1st place solution)
 
 https://www.kaggle.com/c/mva-recvis-2018
 
@@ -23,11 +23,11 @@ Download the training/validation/test images from [here](https://www.di.ens.fr/w
 
 ##### Crop the image
 
-run the jupyter crop_bird
+Run the jupyter crop_bird
 
 ##### Extract the features
 
-git clone the repo https://github.com/richardaecn/cvpr18-inaturalist-transfer
+Git clone the repo https://github.com/richardaecn/cvpr18-inaturalist-transfer
 
 Run it for the global images and the cropped images
 
