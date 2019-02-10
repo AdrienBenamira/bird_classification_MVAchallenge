@@ -2,9 +2,9 @@
 
 ### Assignment 3: Image classification
 
-This is an implementation that achieves 91.712 % in the Kaggle challenge MVA 2018-2019 (1st place solution)
+This is an implementation that achieves 91.712 % in the [Kaggle challenge](https://www.kaggle.com/c/mva-recvis-2018)  RecVis-MVA course 2018-2019 (1st place solution).
 
-https://www.kaggle.com/c/mva-recvis-2018
+
 
 #### Requirements
 1. Install PyTorch from http://pytorch.org
@@ -34,6 +34,13 @@ Run it for the global images and the cropped images
 ##### Evaluate
 
 Run  main&evaluation_Regression.py
+
+Resultats are : 
+
+|   |Linear Regression | Perceptron |
+|--:|-------------:|-------------:|
+|Validation set | 0.94175 | 0.95151 |
+|Test set | 0.90322 | 0.90322 |
 
 #### Acknowledgments
 
