@@ -4,7 +4,7 @@
 
 This is an implementation that achieves 91.712 % in the [Kaggle challenge](https://www.kaggle.com/c/mva-recvis-2018)  RecVis-MVA course 2018-2019 (1st place solution).
 
-
+Report is avalaible [here](https://github.com/AdrienBenamira/bird_classification_MVAchallenge/blob/master/A3_Report_BENAMIRA.pdf)
 
 #### Requirements
 1. Install PyTorch from http://pytorch.org
@@ -45,19 +45,20 @@ Resultats are :
 #### Acknowledgments
 
 Adapted from https://github.com/richardaecn/cvpr18-inaturalist-transfer
-
+```
 @inproceedings{Cui2018iNatTransfer,
   title = {Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning},
   author = {Yin Cui, Yang Song, Chen Sun, Andrew Howard, Serge Belongie},
   booktitle={CVPR},
   year={2018}
 }
-
+```
 and https://github.com/chainer/chainercv
-
+```
 @inproceedings{ChainerCV2017,
     author = {Niitani, Yusuke and Ogawa, Toru and Saito, Shunta and Saito, Masaki},
     title = {ChainerCV: a Library for Deep Learning in Computer Vision},
     booktitle = {ACM Multimedia},
     year = {2017},
 }
+```
